@@ -1,6 +1,8 @@
 # Sudoku-solver
 This project provides a Sudoku solver and game implemented in Python using the pygame library for the graphical user interface. It includes a backtracking algorithm to solve any solvable Sudoku puzzle and allows users to play Sudoku interactively.
 
+<img src="sudoku.gif" width="500" height="500">
+
 # Features
 - **Sudoku Solver**: Utilizes a backtracking algorithm (solve) to solve any valid Sudoku puzzle.
 - **Sudoku Game**: Interactive Sudoku game where users can play Sudoku puzzles.
